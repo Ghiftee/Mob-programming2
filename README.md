@@ -4,7 +4,7 @@
 
 > This is a coding challenge repo
 
-- In this Microverse Mob programming session, my team and I solve the FizzBuzz challenge on Hackerrank.
+- In this Microverse Mob programming session, my team and I solved the FizzBuzz challenge on Hackerrank.
 - To take a look at this challenge in full, visit [FizzBuzz Challenge](https://www.hackerrank.com/challenges/fizzbuzz/problem)
 
 ### Author
